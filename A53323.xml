@@ -1,0 +1,254 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd in St. Paul's cathedral before the Lord-Mayor, aldermen, &amp;c. on Sunday, October 23, 1698 by Edward Oliver ...</title>
+            <author>Oliver, Edward, d. 1732.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53323</idno>
+            <idno type="STC">Wing O272</idno>
+            <idno type="STC">ESTC R17592</idno>
+            <idno type="EEBO-CITATION">13161845</idno>
+            <idno type="OCLC">ocm 13161845</idno>
+            <idno type="VID">98197</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53323)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98197)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 431:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd in St. Paul's cathedral before the Lord-Mayor, aldermen, &amp;c. on Sunday, October 23, 1698 by Edward Oliver ...</title>
+                  <author>Oliver, Edward, d. 1732.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[4], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Castle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  John IV, 24 --  Sermons.</term>
+               <term>God --  Worship and love --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:98197:1"/>
+            <pb facs="tcp:98197:1"/>
+            <p>Mr. <hi>OLIVER</hi>'s SERMON Before the LORD-MAYOR, <hi>&amp;c.</hi> At St. <hi>Paul</hi>'s Cathedral, <hi>October</hi> 23. 1698.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:98197:2"/>
+            <opener>
+               <signed>EDWIN, Mayor.</signed>
+               <dateline>
+                  <date>Jovis <hi>xxvii.</hi> die Octobris, <hi>1698.</hi> Annoque RRs <hi>Wilhelmi</hi> Tertii Angliae, &amp;c. Decimo.</date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Oliver</hi> to Print his Sermon Preached be<g ref="char:EOLhyphen"/>fore the Lord-Mayor and Aldermen of this City at the Cathedral Church of St. <hi>Paul,</hi> on <hi>Sunday</hi> laſt.</p>
+            <closer>
+               <signed>GOODFELLOW.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:98197:2" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D in St. <hi>PAUL</hi>'s Cathedral, BEFORE THE Lord-Mayor, ALDERMEN, <hi>&amp;c.</hi>
+            </p>
+            <p>On SUNDAY, <hi>October</hi> 23. 1698.</p>
+            <p>By <hi>EDWARD OLIVER,</hi> M. A. Fellow of <hi>Corpus Chriſti</hi> College, <hi>Cambridge;</hi> and Chaplain to the Right Honourable <hi>GEORGE</hi> Earl of <hi>Northampton.</hi>
+            </p>
+            <p>
+               <hi>The Second Edition.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Edward Caſtle,</hi> next <hi>Scotland-Yard-Gate,</hi> near <hi>Whitehall.</hi> MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:98197:3"/>
+            <pb n="1" facs="tcp:98197:3"/>
+            <head>A SERMON Preach'd before the <hi>Lord-Mayor,</hi> &amp;c.</head>
+            <epigraph>
+               <bibl>
+                  <hi>JOHN IV. 24.</hi>
+               </bibl>
+               <q>God is a Spirit, and they that worſhip him muſt worſhip him in ſprit and in truth.</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">O</seg>UR Bleſſed Redeemer ne<g ref="char:EOLhyphen"/>glected no opportunity of ex<g ref="char:EOLhyphen"/>erting that univerſal Charity he came into the world to teach, that thus by his Pra<g ref="char:EOLhyphen"/>ctice his Doctrine might gain Credit, and the ſtiffeſt Prejudices be wrought off and conquer'd by ſo powerful an Exam<g ref="char:EOLhyphen"/>ple
+<pb n="2" facs="tcp:98197:4"/>Anſwerable to this we find him here in this Chapter bearing with patience the Igno<g ref="char:EOLhyphen"/>rance and ſubtle Shifts of a Woman; with tenderneſs reproving the Sins of an heinous Offender; with kindneſs, though himſelf a <hi>Jew,</hi> converſing with a <hi>Samaritan.</hi>
+            </p>
+            <p>Thus by his Affability and ſtooping to the meaneſt Capacity, does he convince the Un<g ref="char:EOLhyphen"/>derſtanding that was fraught with Prejudice and Infidelity; ſubject that Will that was led captive at the pleaſure of each unruly Luſt: In ſhort, of an Idolater and Adult'reſs, makes a Convert, and a Teacher of others.</p>
+            <p>Such care does he take to have all come to the knowledge of the Truth, that we find him ſupplying the defects of Education, re<g ref="char:EOLhyphen"/>moving thoſe Diſadvantages ſhe lay under; and what the <hi>Jews</hi> might have learnt from the Books of their Prophets (which Books the <hi>Samaritans</hi> did wholly reject, and ſo were not capable of underſtanding), he here with great plainneſs, nay, more than he vouchſafes to his own Nation, declares, <hi>(viz.)</hi> That he was the Meſſiah, and was to introduce a new and better Law. <hi>So much advantage has Igno<g ref="char:EOLhyphen"/>rance, and a Confeſſion of Sins, above an affected
+<pb n="3" facs="tcp:98197:4"/>Pretence to Knowledge, and a counterfeited Zeal.</hi>
+            </p>
+            <p>There is no Verſe that has relation to this Story, but would afford many uſeful Remarks: But ſince I have pitch'd upon this of the Text, I ſhall take no further notice of the reſt, than as they are particularly neceſſary to the Ex<g ref="char:EOLhyphen"/>plication of it. And in order to this, 'twill be expedient to conſider to what this Poſition is oppos'd: And we ſhall beſt underſtand what is here meant by <hi>Spirit</hi> and <hi>Truth,</hi> if we look back a little, and take notice how it was in<g ref="char:EOLhyphen"/>troduc'd. — (Nor will the Reflections which I ſhall make be improper for this Auditory; where, though I believe there is neither <hi>Jew</hi> nor <hi>Samaritan</hi> to convince, yet we have thoſe, I fear, ſometimes to deal with, who make ſuch a Medley of Religion, that they are near as dangerous to the Truth of it. For ſo do the <hi>Romaniſts</hi> confound their Will-worſhip and Idolatry with the Eſſentials of Chriſtia<g ref="char:EOLhyphen"/>nity, that they take both from its <hi>Truth</hi> and <hi>Spirituality.</hi> So do other Diſſenters from Us miſtake the true Notion of its <hi>Spirituality,</hi> that they derogate from the very Eſſentials of our moſt Holy Religion, and would go about to
+<pb n="4" facs="tcp:98197:5"/>perſuade us its Truth conſiſted in mere Airy Notions, and Wild Enthuſiaſm.) —Our Bleſſed Saviour having convinc'd this <hi>Samari<g ref="char:EOLhyphen"/>tan</hi> of his extraordinary Knowledge, by <hi>telling her all that ever ſhe did,</hi> ſhe is ſo far from de<g ref="char:EOLhyphen"/>nying or concealing her fault, that ſhe owns him for a Prophet, and as ſuch, begs his In<g ref="char:EOLhyphen"/>ſtructions in that great Diſpute that was be<g ref="char:EOLhyphen"/>tween the <hi>Jews</hi> and thoſe of her own Nation. It being neceſſary for her that knew her Sins were many and heinous, and had not only learnt out of the Books of <hi>Moſes,</hi> that there could be no Atonement made between God and her, no Remiſſion obtain'd without a Sacrifice; but alſo, that the Almighty would accept of no other Sacrifice, but ſuch as was offer'd him in that one Place he had choſen to put his Name in; nay, yet more, That all Sacrifices that were offer'd elſewhere were eſteem'd no better than of wilful Murder: It was neceſſary, I ſay, for her to underſtand how and <hi>where</hi> this her Offering would be ac<g ref="char:EOLhyphen"/>cepted. Nor could ſhe judge any more fit to reſolve her, than one of whoſe great Wiſdom and Knowledge ſhe had then had ſuch full Proof and Experience. The Religions that
+<pb n="5" facs="tcp:98197:5"/>at this time took place in the World, were thoſe of the <hi>Jews</hi> and <hi>Gentiles:</hi> The <hi>Jews</hi> wor<g ref="char:EOLhyphen"/>ſhipp'd only One and the True God; the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> abounded in ſuch as were Falſe, to whom they paid their Adoration. Now the <hi>Samari<g ref="char:EOLhyphen"/>tans</hi> made a mixture of both theſe, and added to the Worſhip of the true God the Adoration of the falſe. For when <hi>Shalmaneſſer</hi> carried <hi>Iſrael</hi> away captive into <hi>Aſſyria,</hi> he ſent the Re<g ref="char:EOLhyphen"/>fuſe of divers Nations <hi>to poſſeſs Samaria and the cities of it;</hi>
+               <note place="margin">2 Kings 17.25.</note> who <hi>in the beginning of their dwel<g ref="char:EOLhyphen"/>ling there feared not the Lord, therefore the Lord ſent lions among them and ſlew ſome of them.</hi> To remove which Plague their King ſent one of the Prieſts which he brought from thence, to dwell there, and to <hi>teach them the manner of the God of the land:</hi> So <hi>they feared the Lord, and ſerved their own gods,</hi> ver. 33. that is, admit<g ref="char:EOLhyphen"/>ted the Religion of the <hi>Jews,</hi> and yet retained their own Superſtition.</p>
+            <p>Now though the <hi>Jews</hi> and <hi>Samaritans</hi> differ'd in many things, as were eaſy to ſhow; yet they chiefly diſagreed in the Place of their Sacrifi<g ref="char:EOLhyphen"/>ces. Theſe pleading the Practice of their Fore<g ref="char:EOLhyphen"/>fathers, whom they, forgetful of their true Religion, eſteemed <hi>Abraham, Iſaac,</hi> and <hi>Ja<g ref="char:EOLhyphen"/>cob,</hi>
+               <pb n="6" facs="tcp:98197:6"/>believing themſelves deſcended from them, and ſettled in this Land ever ſince the depar<g ref="char:EOLhyphen"/>ture of <hi>Moſes</hi> out of <hi>Egypt;</hi> in the mean time upbraiding the <hi>Jews,</hi> that their Religion was only founded on Hearſay and Opinion.</p>
+            <p>The <hi>Jews</hi> juſtly eſteem'd theirs the Holy Temple of <hi>Jeruſalem,</hi> where God appear'd be<g ref="char:EOLhyphen"/>tween the Cherubims, where was an unqueſtio<g ref="char:EOLhyphen"/>ned Succeſſion of Prieſts to miniſter, and where their Kings had always offer'd Sacrifice.</p>
+            <p>On the other ſide, the <hi>Samaritans</hi> boaſted their Mount <hi>Gerizim</hi> as the Place choſen of God; where <hi>Abraham</hi> (as their Tradition would make them believe) in obedience would have offer'd up his Son <hi>Iſaac,</hi> and where <hi>Jacob</hi> returning out of <hi>Meſopotamia</hi> worſhipp'd.</p>
+            <p>Nay, ſo were they poſſeſs'd with a belief of the Antiquity of their Temple, that in the time of <hi>Ptolomy Philometor,</hi> about a hundred and ſixty years before Chriſt, they undertook, with the hazard of their Lives, to prove it before that of <hi>Jeruſalem,</hi> even out of the Laws of <hi>Moſes. So ſtrangely miſtaken may the fond boaſts be of Succeſſion and Antiquity, and ſo little Credit to be given to bare Tradition.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:98197:6"/>This was the foundation of the Woman's Queſtion (<hi>v.</hi> 20.), and this Queſtion ſhe juſt<g ref="char:EOLhyphen"/>ly thought <hi>dignus Vindice nodus,</hi> worthy of a Prophet to reſolve. Now ſo does our Saviour frame his Anſwer, as to declare the Worſhip of the <hi>Jews</hi> preferable to that of the <hi>Samari<g ref="char:EOLhyphen"/>tans,</hi> and conſequently <hi>Jeruſalem</hi> to Mount <hi>Ge<g ref="char:EOLhyphen"/>rizim;</hi> but adds, that the whole Queſtion will henceforth ceaſe, while both their Religions were to be aboliſh'd, the one as Falſe, the other as Imperfect. The <hi>Samaritan</hi>'s falſe, be<g ref="char:EOLhyphen"/>cauſe mix'd with Idolatry; wherefore our Sa<g ref="char:EOLhyphen"/>viour ſays, <hi>Ye worſhip ye know not what,</hi> v. 22. The <hi>Jew</hi>'s, though it muſt be allow'd true, becauſe he adds, <hi>We worſhip what we know,</hi> yet to be aboliſh'd, becauſe weak and imperfect: <hi>Neither in this mountain ſhall ye worſhip,</hi> becauſe Idolatry ſhall ceaſe as the Prophets foretold, <hi>And the Lord alone ſhall he exalted in that day,</hi>
+               <note place="margin">Iſa. 2.18.</note> 
+               <hi>and the Idols he ſhall utterly aboliſh: Nor in Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> becauſe Sacrifice and Oblations he will no longer accept, but a third and perfect Wor<g ref="char:EOLhyphen"/>ſhip ſhould be eſtabliſh'd; <hi>for the hour comes and now is, when the true worſhippers ſhall worſhip the Father in ſpirit and in truth, for the Father ſeeketh ſuch to worſhip him,</hi> v. 23. In which
+<pb n="8" facs="tcp:98197:7"/>Anſwer of our Bleſſed Saviour, the Deficiency of both the former Religions, and the Excel<g ref="char:EOLhyphen"/>lency of that which was to ſucceed is plainly ſet forth. For the worſhip of the <hi>Samaritans</hi> was not in <hi>Truth,</hi> but abounded with <hi>Errors</hi> and <hi>Ignorance;</hi> That of the <hi>Jews</hi> was not in <hi>Spi<g ref="char:EOLhyphen"/>rit,</hi> but conſiſted in <hi>Bodily Obſervances</hi> and <hi>Out<g ref="char:EOLhyphen"/>ward Ceremonies,</hi> which were but Shadows of things to come; and it was only the Chriſti<g ref="char:EOLhyphen"/>ans that could henceforth be true Worſhippers, whilſt their Religion alone was endued with what the others were deficient in <hi>(viz.) Spirit</hi> and <hi>Truth.</hi> Nor could any other Religion than this be proper to be eſtabliſh'd, no other being agree<g ref="char:EOLhyphen"/>able to the Nature and true Notion of a God; and this in the Text is given as the: fundamen<g ref="char:EOLhyphen"/>tal reaſon why the others were aboliſh'd, and this introduc'd: <hi>God is a Spirit,</hi> &amp;c.</p>
+            <p>And that the Chriſtian Religion is thus agreeable to the Nature of God, I ſhall endea<g ref="char:EOLhyphen"/>vour to ſhew, by declaring what is here re<g ref="char:EOLhyphen"/>quir'd of us,</p>
+            <list>
+               <item>I. By worſhipping in Spirit. And</item>
+               <item>II. In Truth.</item>
+            </list>
+            <p>
+               <pb n="9" facs="tcp:98197:7"/>And by the way ſhall take notice of ſuch as deviate from this Worſhip: Which I deſire may ſerve as an Application of the Diſcourſe, ſince 'tis all which I fear your Patience will permit me to make.</p>
+            <p>And I. I am to ſhow what is meant by <hi>Worſhipping God in Spirit.</hi>
+            </p>
+            <p n="1">1. Then do we worſhip him in <hi>Spirit,</hi> when we are poſſeſs'd with a true and lively ſenſe of his Divine Majeſty, Power, and Rule over us; humbly acknowledge his unſpeakable Good<g ref="char:EOLhyphen"/>neſs; ſo adore his Infinite Wiſdom which ſearches our hearts, that we in all things ſub<g ref="char:EOLhyphen"/>mit to his All-wiſe Will: When we love him with all our Hearts and all our Souls, and yet fear and reverence him as a Father, and with the greateſt chearfulneſs obey whatſoever he has been pleas'd to command us. When we not only give up our Souls pure and ſpotleſs, but keep our Bodies too fit Temples for the Holy Ghoſt, and thus join'd, offer up our ſelves one Reaſonable Service.</p>
+            <p>For when we have once this true and awful Notion of the Almighty, we muſt and ſhall
+<pb n="10" facs="tcp:98197:8"/>exert our ſelves in acts of Piety and publick Teſtimonies of Devotion; Expreſs our Senſe of his Power and Rule by our daily Supplica<g ref="char:EOLhyphen"/>tions; our Acknowledgments of his Goodneſs by our continual Praiſes; our Love by our Charity to our Neighbours, and Zeal for his Worſhip and Service; our Fear, by our ab<g ref="char:EOLhyphen"/>ſtaining from the leaſt appearance of Evil, leſt we offend ſo gracious a Father.</p>
+            <p>And all this with Humility and Reverence, Decency and Order, with Obedience to Au<g ref="char:EOLhyphen"/>thority, and reſpect to thoſe whom he has ſet over Us: Theſe being moſt certain and ſpiri<g ref="char:EOLhyphen"/>tual Duties, nay the only things wherein we are capable of teſtifying that we really do <hi>worſhip Him in ſpirit.</hi> And once come up to theſe juſt and awful Thoughts of the Divine Majeſty, which produce ſuch true acts of De<g ref="char:EOLhyphen"/>votion and Piety, How agreeable to his Na<g ref="char:EOLhyphen"/>ture muſt be this our Sacrifice, how much be<g ref="char:EOLhyphen"/>yond whatever the policy of the wiſeſt Hea<g ref="char:EOLhyphen"/>then could invent; nay even what he himſelf inſtituted in the Jewiſh Religion?</p>
+            <p>God is a Spirit; That is, a Being Incorpo<g ref="char:EOLhyphen"/>real and Immaterial; his Worſhip therefore ought to be like Himſelf, refin'd and ſpiritual,
+<pb n="11" facs="tcp:98197:8"/>and to deduce its Source from the Reaſon and Soul of Man; not to conſiſt barely in out<g ref="char:EOLhyphen"/>ward Acts and Things meerly Corporeal.</p>
+            <p>'Tis confeſs'd God had permitted, nay com<g ref="char:EOLhyphen"/>manded ſuch a Worſhip under the Old Law; but this was only Temporary, and fitted for a People carnal and ſtiff-neck'd; but now <hi>the fulneſs of time was come,</hi> it no longer ſuited the Divine Majeſty, he therefore commands a Worſhip more Real and Divine. If therefore our Actions do not proceed from the Heart and Soul; that is, from a lively Faith, fervent Love and ſincere Principles of Holineſs, they can't be acceptable to God, nor is this our Worſhip agreeable to his Nature. But if they take their Riſe from the Heart, then are they a <hi>ſpiritual Worſhip;</hi> for thus are they <hi>ſpiritual</hi> in their Original, Source and Cauſe, and bear ſome proportion even with the Almighty him<g ref="char:EOLhyphen"/>ſelf, who is a Spirit. And this I take to be the true meaning of <hi>worſhipping in ſpirit.</hi>
+            </p>
+            <p>How groſsly then do they err who would make all Religion to conſiſt in Notion and Talk, and frame to themſelves a Worſhip that ſhould have nothing of reality in it, but at once mock both God and Man? Theſe are
+<pb n="12" facs="tcp:98197:9"/>they that are above Ordinances, and all man<g ref="char:EOLhyphen"/>ner of Rule, guided by Fancy and a frantick Zeal, which they put on to deceive the giddy Multitude with a noiſe of Holineſs: who think it enough to vent and boaſt their Notions of the Power and Excellency of Faith, but never take care to ſhew it by their Works; nay e<g ref="char:EOLhyphen"/>ſteem the preſſing of them as neceſſary to Sal<g ref="char:EOLhyphen"/>vation, nothing leſs than Superſtition and Po<g ref="char:EOLhyphen"/>pery: that will talk of Love to God, and Fa<g ref="char:EOLhyphen"/>miliarity with the Perſon of Chriſt; and yet forget their Obedience to the Magiſtrates whom he has ſet over them, and hate, back-bite and ſlander their Neighbour: that pretend to the greateſt Zeal for God's glory, yet are ſo far from abhorring Sacriledge, that 'tis one great Mark of their Godlineſs. Bleſſed God! If theſe be the effects of <hi>ſpiritual Worſhip,</hi> we have chang'd for the worſe, and are much farther from Heaven than the <hi>Jew</hi> or <hi>Samaritan.</hi>
+            </p>
+            <p>Others there are that go not ſo far, yet urge this Text againſt all manner of Ceremonies, and preſcrib'd Forms of Devotion. Are we, ſay they, to <hi>worſhip him in ſpirit?</hi> what means then this Show and outward Pomp, this Ru<g ref="char:EOLhyphen"/>brick and theſe Forms? Shall we again be
+<pb n="13" facs="tcp:98197:9"/>bound up with <hi>Jewiſh</hi> Slavery? Are we not promis'd the Aſſiſtance of the Spirit, and ſhall Chriſt dye in vain to free us?</p>
+            <p>We willingly confeſs that the Worſhip under the Goſpel is more refin'd and ſpiritual than that under the Law; but that it ſhould be wholly ſo, debarr'd of all outward Ceremo<g ref="char:EOLhyphen"/>nies, we affirm to be againſt the Practice of all Ages, nay, utterly impoſſible. Is not the whole Queſtion here concerning Publick Worſhip, the one falſe and idolatrous, the other groſs and carnal; and is it any other than a Publick Worſhip that our Saviour op<g ref="char:EOLhyphen"/>poſes to them, <hi>Spirit</hi> to the one, and <hi>Truth</hi> to the other? Is not the very Word he uſes, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, moſt expreſſive of an <hi>outward Act</hi> of Devotion and Adoration? Did ever the <hi>Jews who knew what they worſhipp'd,</hi> do it without Ceremony? And have we not Examples eve<g ref="char:EOLhyphen"/>ry where in Holy Writ, even from our Savi<g ref="char:EOLhyphen"/>our and his Apoſtles, of external Acts of Ado<g ref="char:EOLhyphen"/>ration? Nay, which perhaps is a greater Ar<g ref="char:EOLhyphen"/>gument to theſe men, do not they themſelves uſe them? What mean elſe their ſet Looks,
+<pb n="14" facs="tcp:98197:10"/>formal Voice, and forc'd Geſtures? In ſhort, all comes to this, they will, they muſt have Ceremonies, but they muſt be of their own making; and their diſlike is greater, 'tis to be fear'd, to the Church that enjoins 'em, than to the Things themſelves. 'Tis true, the Law ſhall give place to the Goſpel, nor ſhall there be any appointed Place for Sacrifice, for that it ſelf ſhall be aboliſh'd; but worſhip we muſt, and how that ſhall be done without preſcrib'd <hi>Place, Time,</hi> and <hi>Order,</hi> is abſo<g ref="char:EOLhyphen"/>lutely inconceivable. Still we muſt <hi>worſhip in the beauty of holineſs;</hi> and though we are neither confin'd to <hi>Jeruſalem</hi> or Mount <hi>Geri<g ref="char:EOLhyphen"/>zim,</hi> yet muſt we <hi>not forget the aſſembling our ſelves together.</hi>
+            </p>
+            <p>As for the Objections from hence againſt Set Forms, and the Pretenſions to the Spirit, How vain and frivolous are they? Where is ſuch Aſſiſtance promis'd? or upon what ac<g ref="char:EOLhyphen"/>count indeed neceſſary? Let theſe Pretenders to Inſpiration work Miracles too, and then we ſhall believe theſe extraordinary Gifts of the Holy Ghoſt, which we rightly now judge
+<pb n="15" facs="tcp:98197:10"/>already ceas'd. Beſides, ſo little reaſon have they, that the very Opinion contradicts it ſelf, and what they pretend <hi>an Extemporary Effuſion, is no more than a Form to all the Audi<g ref="char:EOLhyphen"/>tory,</hi> who are ty'd up to thoſe Words they are pleas'd to put together for them, and are often work'd up by Heat and Paſſion to ſay <hi>Amen</hi> to no better than Nonſenſe; ſometimes, I fear, even Blaſphemy it ſelf. Strange is it, that men otherwiſe ſober, and that will not venture a Sermon, which they only addreſs to the People, without Care and Accuracy of Wording, ſhould yet dare to entertain Com<g ref="char:EOLhyphen"/>merce with God at all adventures, buoy'd up with a little Popular Applauſe and Self-con<g ref="char:EOLhyphen"/>ceit! Moſt evident it is, that what they would make the World believe is immediately from Heaven, is attainable by Memory, and a Volubility of Speech, and perfected by a great ſhare of Confidence. Then do we tru<g ref="char:EOLhyphen"/>ly worſhip in Spirit, when after our Bleſſed Saviour's Example we pray with Warmth and Devotion in a ſound well-weigh'd Form of Words; nor does the Almighty ever deny his Aſſiſtance, or the Petitions of ſuch Ado<g ref="char:EOLhyphen"/>rers.</p>
+            <p>
+               <pb n="16" facs="tcp:98197:11"/>So ſenſible has all the World been of the Neceſſity of a Form, that there is no Age or Church that has left themſelves at liberty; nor was it ever thought on, till Religion grew a Blind for Faction and Intereſt. We wor<g ref="char:EOLhyphen"/>ſhip not as the <hi>Jews</hi> did, with ſuch Ceremo<g ref="char:EOLhyphen"/>nies as are <hi>ſigns and figures of things to come;</hi> thoſe we know are and were to be aboliſh'd: But our external viſible Services imply the Truth of the Promiſes already exhibited, and our outward Acts are teſtimonies of our in<g ref="char:EOLhyphen"/>ward Faith, Love, Humility, and other Chri<g ref="char:EOLhyphen"/>ſtian Virtues. Nor is it to be queſtion'd but that divers Saints and Holy Prophets did in this manner adore; nor is this taken away but perfected by our great Lawgiver. Would it not be very ſtrange that Chriſtianity, which gives us Rules of Converſation and Civility, reaches us Obedience to our Prince, Submiſ<g ref="char:EOLhyphen"/>ſion to Governors, Reſpect and Kindneſs to all men in general, ſhould yet ſuffer us to make our approaches to the Almighty with Diſreſpect and Rudeneſs! Yet do we not often ſee ſuch men as will pay due Reverence to a Neighbour or Equal, ruſh into the Place
+<pb n="17" facs="tcp:98197:11"/>of Worſhip, and the Preſence of God him<g ref="char:EOLhyphen"/>ſelf, without the leaſt ſhew of Devotion and Reſpect?</p>
+            <p>'Tis allow'd, all men in compariſon of the great God are equal, and Titles ceaſe when we have regard to one Omnipotent: But this ſhould be ſo far from leſſening, that it ſhould infinitely heighten our outward Acts of Sub<g ref="char:EOLhyphen"/>miſſion and Humility: Is he not our Maſter, where is then our Reverence? Is he not our Lord, where is then our Fear? Thus on the one ſide have ſome wander'd from the meaning of the Text; nor do the Pa<g ref="char:EOLhyphen"/>piſts leſs err on the other, who are ſo far from worſhipping in Spirit, that they ſtill retain that Sacrifice that was once offer'd up for all; that cloud and load their Reli<g ref="char:EOLhyphen"/>gion with innumerable Ceremonies; that content themſelves with repeating ſo many Prayers, and conclude they have then ſuf<g ref="char:EOLhyphen"/>ficiently worſhipp'd, when their Set-task is finiſh'd. Now how inſignificant and ſapleſs muſt this Devotion be, how unacceptable to the God of Purity and Omniſcience,
+<pb n="18" facs="tcp:98197:12"/>that ſearches the Heart, and expects a rea<g ref="char:EOLhyphen"/>ſonable Service? Or how can it be agree<g ref="char:EOLhyphen"/>able to Him who ſent our Saviour into the World to remove this very Bondage from the <hi>Jews,</hi> and to eſtabliſh a Spiritual and Divine Worſhip? Nay, can it ſatisfy a man of Senſe and Conſideration? Yet ſo far can the Prejudice of Cuſtom and Educa<g ref="char:EOLhyphen"/>tion prevail, that this is the known Pra<g ref="char:EOLhyphen"/>ctice of thoſe that profeſs that Religion.</p>
+            <p>Happy! thrice happy are we then in the Conſtitution of our Church! May it long ſo flouriſh.</p>
+            <p>Whilſt we have no Ceremonies but what Decency require, and Primitive Practice al<g ref="char:EOLhyphen"/>lows; have Inſtructions plain and eaſy, Prayers ſerious and accommodate to the meaneſt Capacity, and ſo free from juſt exception, that <hi>we may well queſtion that man's Underſtanding, always his Charity, that refuſes to ſay</hi> Amen.</p>
+            <p>But thus much of the Firſt Particular.</p>
+            <list>
+               <pb n="19" facs="tcp:98197:12"/>
+               <item>I come now to what is meant by,</item>
+               <item>II. <hi>Worſhipping him in Truth.</hi>
+               </item>
+            </list>
+            <p>For though nothing hinders but they may be here taken one for the Expoſiti<g ref="char:EOLhyphen"/>on of the other; yet have we hitherto, and ſhall ſtill treat of it as it was oppos'd to the Falſe Worſhip of the <hi>Samaritans;</hi> which was now to be aboliſh'd, and they no longer to worſhip they knew not what on Mount <hi>Gerizim.</hi> So that by it is forbidden all Corporeal Repreſentati<g ref="char:EOLhyphen"/>ons of the Almighty (for ſo the <hi>Samari<g ref="char:EOLhyphen"/>tans</hi> did worſhip him), as all mixture of Heatheniſh Superſtition and Idolatry: Who are ſaid in Scripture to belye the Almigh<g ref="char:EOLhyphen"/>ty, whilſt <hi>they chang'd the truth of God in<g ref="char:EOLhyphen"/>to a lye, and ſerv'd the Creature as</hi> or with <hi>the Creator, who is bleſſed for ever<g ref="char:EOLhyphen"/>more.</hi>
+            </p>
+            <p>Then do we worſhip him in Truth, when in ſerious and devout Meditation we can work up our Thoughts above all
+<pb n="20" facs="tcp:98197:13"/>things material; when we only contem<g ref="char:EOLhyphen"/>plate a Being incorporeal, infinite in all that's great and good, and to him a<g ref="char:EOLhyphen"/>lone, as ſuch, offer up our Supplica<g ref="char:EOLhyphen"/>tions.</p>
+            <p>What ſhall we ſay then to the <hi>Roma<g ref="char:EOLhyphen"/>niſts,</hi> who would ſtill confine the Almigh<g ref="char:EOLhyphen"/>ty to Mount <hi>Gerizim?</hi> What elſe mean their Prayers and Offerings, their fam'd Shrines, their long and tedious Pilgrimages to ſome particular Chappel, or renown'd Altar? Still have we the Boaſt of the Practice of their Fathers, though equally falſe with that of the <hi>Samaritans,</hi> and a Religion made and upheld by Superſtition and Policy, de<g ref="char:EOLhyphen"/>liver'd down as Primitive.</p>
+            <p>Still have we a mixture of Idolatry in their Worſhip; nay, the God of Heaven almoſt dethron'd by a Crowd of feign'd Saints and counterfeit Miracles. With what glittering Tawdrineſs are their Churches fill'd? How are their Altars beſet with Puppets, the variouſneſs and ridiculouſneſs
+<pb n="21" facs="tcp:98197:13"/>of whoſe Dreſs ſerves only to amuſe and divert the Traveller? How do they dare to repreſent the Almighty under the De<g ref="char:EOLhyphen"/>cays of Age, and lye proſtrate before each Image their Fancies prompt 'em to chuſe? This is the daily Practice of all in general; and if this be not Idolatry, certainly there never was any yet: Nor can we ever diſtinguiſh between the Opinion and general Practice of a Church, ſo far as to excuſe them.</p>
+            <p>To conclude:</p>
+            <p>Let us that have a plain and eaſy Rule to walk by, ſo carry our ſelves between theſe two dangerous Extremes, as by our Examples to promote and up<g ref="char:EOLhyphen"/>hold the Well-being of the beſt of Churches, Let us be conſtant to our Liturgies, fer<g ref="char:EOLhyphen"/>vent at our Devotions: Thus ſhall we with Decency and Order worſhip the God of Truth, and offer up a reaſonable, a ſpiri<g ref="char:EOLhyphen"/>tual, and acceptable Service. Thus ſhall we after a Peace of Conſcience which we
+<pb n="22" facs="tcp:98197:14"/>may juſtly expect in the Performance of our Duties, be made Partakers of an In<g ref="char:EOLhyphen"/>eſtimable Reward.</p>
+            <p>
+               <hi>To which God,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:98197:14"/>
+            <head>Books Printed and Sold by <hi>Edward Caſtle,</hi> near <hi>Whitehall.</hi>
+            </head>
+            <list>
+               <item>ADvice to an Apprentice under theſe following Heads: 1. Religion. 2. Juſtice and Fidelity. 3. Obedience. 4. Diligence. 5. Affability. 6. Tem<g ref="char:EOLhyphen"/>perance. 7. Chaſtity. 8. Thrift. 9. Humility. 10. Diſcretion. With a Preface to the Maſters.</item>
+               <item>A Catechiſm, or familiar Inſtructions on the Principal Points of the Chriſtian Religion: By Mr. <hi>Drelincourt.</hi> Tranſlated out of <hi>French.</hi>
+               </item>
+               <item>A Treatiſe of the Cauſes of Incredulity: Where<g ref="char:EOLhyphen"/>in are examin'd the Motives and Occaſions which diſpoſe Unbelievers to reject the Chriſtian Religion. By Mr. <hi>Le Clerc.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
